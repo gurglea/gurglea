@@ -8,4 +8,4 @@ local table = {
 
 for _, v in ipairs(table) do
     print(v)
-end```
+end
